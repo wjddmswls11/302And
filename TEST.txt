@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 asdfasdfasf
 =======
 github
@@ -7,3 +8,6 @@ github
 =======
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 >>>>>>> f64c1d03e2eb077a1585f906f98848d609f795f7
+=======
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+>>>>>>> e3767c5cf1fe766874dded320583aa30c2e808a4
